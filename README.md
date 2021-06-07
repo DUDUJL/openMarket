@@ -1,2 +1,2 @@
 # openMarket
-a market project from froupFOO
+a market project from groupFOO
